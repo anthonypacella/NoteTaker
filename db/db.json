@@ -1,34 +1,6 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "Test Title2",
-        "text": "Test text2"
-    },
-    {
-        "title": "TITLE@#123123123",
-        "text": "TEXTkjwfkjhsdkjfhsdf"
-    },
-    {
-        "title": "Anthony",
-        "text": "Hello"
-    },
-    {
-        "title": "Best Note Ever",
-        "text": "Test"
-    },
-    {
         "title": "Read Book",
         "text": "Read 10 pages of my book"
-    },
-    {
-        "title": "aksjdhfkasjdhf",
-        "text": "kasjdkajhsd"
-    },
-    {
-        "title": "asdasd",
-        "text": "asdasdasdasda"
     }
 ]
